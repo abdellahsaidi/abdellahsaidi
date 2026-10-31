@@ -119,27 +119,11 @@ I'm **Abdellah Saidi**, a 22-year-old **Computer Science Master's student** spec
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:155BFF,100:843BFF&height=3" alt="" />
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdellahsaidi&show_icons=true&count_private=true&hide_border=false&border_color=291442&bg_color=080817&title_color=843BFF&icon_color=3985FF&text_color=F5F5FF&ring_color=155BFF" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahsaidi&layout=compact&border_color=291442&bg_color=080817&title_color=843BFF&text_color=F5F5FF" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abdellahsaidi&background=080817&border=291442&stroke=291442&ring=843BFF&fire=3985FF&currStreakNum=F5F5FF&sideNums=F5F5FF&currStreakLabel=3985FF&sideLabels=85859E&dates=85859E" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellahsaidi&bg_color=080817&color=3985FF&line=843BFF&point=F5F5FF&area=true&area_color=291442&hide_border=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdellahsaidi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+<div align="center">
+  <a href="https://github.com/abdellahsaidi">
+    <img src="https://streak-stats.demolab.com/?user=abdellahsaidi&background=080817&border=291442&stroke=291442&ring=843BFF&fire=3985FF&currStreakNum=F5F5FF&sideNums=F5F5FF&currStreakLabel=3985FF&sideLabels=85859E&dates=85859E" alt="GitHub streak" />
   </a>
-</p>
-
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:155BFF,100:843BFF&height=3" alt="" />
+</div>
 
 ## ✍️ Writing
 
